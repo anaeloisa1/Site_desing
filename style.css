@@ -10,7 +10,7 @@ body {
   color: #4a3b2c;
 }
 
-/* HEADER */
+
 header {
   display: flex;
   justify-content: space-between;
@@ -47,7 +47,7 @@ nav a {
   background: #a37445;
 }
 
-/* HERO */
+
 .hero {
   padding: 80px 8%;
   background: linear-gradient(to right, #f2e7db, #e8d5c0);
@@ -68,7 +68,7 @@ nav a {
   max-width: 400px;
 }
 
-/* SERVICES */
+/* servicos */
 .services {
   display: flex;
   justify-content: space-around;
@@ -86,7 +86,7 @@ nav a {
   margin-bottom: 10px;
 }
 
-/* ABOUT */
+
 .about {
   display: flex;
   justify-content: space-between;
@@ -100,8 +100,8 @@ nav a {
   border-radius: 12px;
 }
 
-/* BEFORE AFTER */
-.before-after {
+
+.comparacao {
   text-align: center;
   padding: 60px 8%;
   background: #fff;
@@ -119,7 +119,7 @@ nav a {
   border-radius: 10px;
 }
 
-/* CONTACT */
+/* Contato */
 .contact {
   text-align: center;
   padding: 60px 8%;
@@ -134,13 +134,13 @@ nav a {
   flex-wrap: wrap;
 }
 
-/* FOOTER */
 footer {
   text-align: center;
   padding: 20px;
   background: #fff;
   font-size: 14px;
 }
+
 
 /* RESPONSIVO */
 @media (max-width: 768px) {
