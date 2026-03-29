@@ -141,6 +141,18 @@ footer {
   font-size: 14px;
 }
 
+.icone-what{
+color: #b88b5a;
+margin-right: 2px;
+font-size: 42px;
+
+}
+.icone-insta{
+color: #b88b5a;
+margin-left: 2px;
+margin-right: 2px;
+font-size: 42px;
+}
 
 /* RESPONSIVO */
 @media (max-width: 768px) {
